@@ -1,0 +1,132 @@
+@media (max-width:991px) {
+    #Home {
+        text-align: center;
+    }
+
+    #Home .row {
+        flex-direction: column-reverse;
+    }
+
+    .myimg img {
+        max-height: 50%;
+        margin-bottom: 3rem;
+    }
+
+    .skills {
+        flex-direction: column;
+    }
+
+    .abouttext {
+        margin-top: 2rem;
+    }
+
+    .img-slide span {
+        right: -5px;
+    }
+
+    .project-content h3 {
+        text-align: center;
+    }
+
+    .project-content p {
+        text-align: center;
+    }
+
+    .card-pro {
+        padding-top: 3rem;
+    }
+
+    .pro-img {
+        padding-bottom: 1rem;
+    }
+
+    .pro-img a img {
+        width: 80%;
+        height: 80%;
+    }
+
+    .interested {
+        height: 180px;
+    }
+
+    .project {
+        text-align: center;
+    }
+}
+
+@media (max-width:991px) {
+    .interested {
+        height: 200px;
+
+    }
+
+    .interrested-test h3 {
+        font-size: 2rem;
+        font-weight: 500;
+    }
+
+}
+
+@media (max-width:480px) {
+    .interested {
+        height: 240px;
+    }
+
+    .contact-detail ul li {
+        padding-left: 0;
+    }
+
+    .contact-detail {
+        padding: 3.625rem 4.652rem;
+    }
+
+    .contact-form {
+        padding: 1.675rem 5.625rem !important;
+    }
+
+    .work-main {
+        height: 17rem;
+        width: 20rem;
+    }
+
+    .work-emoji {
+        bottom: -1rem;
+        right: 5rem;
+        width: 3rem !important;
+
+    }
+
+    .img-slide span {
+        bottom: -70px;
+        height: 10rem;
+        right: 30px;
+        width: 10rem;
+    }
+
+    .head-pro {
+        width: 60%;
+    }
+
+    .head-pro4 {
+        width: 90%;
+    }
+
+    #project {
+        padding-right: 2.5rem;
+        text-align: left;
+    }
+
+    .footer-item ul li i {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width:380px) {
+
+    .contact-detail {
+        padding: 3.625rem 3.152rem;
+    }
+    .form-control{
+width: 115%;
+    }
+}
